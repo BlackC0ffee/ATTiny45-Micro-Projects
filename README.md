@@ -1,2 +1,2 @@
 # ATTiny45-Micro-Projects
-Small Projects relate to ATTiny45
+Small Projects related to ATTiny45
